@@ -1,0 +1,8 @@
+1.How would you explain the difference between a playbook and a role in Ansible? Can you provide an example scenario where you would use each
+2.What are Ansible inventory files, and how do you manage dynamic inventories for large-scale environments?
+
+3.Can you describe the steps in setting up a CI/CD pipeline for an application in Azure DevOps, from code push to production deployment?
+4.How would you implement automated testing in a CI/CD pipeline to ensure that only stable code gets deployed?
+5.What is the role of artifacts in a CI/CD pipeline, and how do you manage them across different stages of the pipeline?
+
+6.Can you explain how Kubernetes services help in exposing applications, and differentiate between ClusterIP, NodePort, and LoadBalancer?
