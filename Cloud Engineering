@@ -1,3 +1,9 @@
-You’re responsible for a web application that is deployed across two Azure regions: East US and West US. The database is hosted in Azure SQL with active geo-replication enabled. One day, the East US region experiences an unexpected outage. What steps would you take to ensure the application remains available, and how would you verify the integrity and consistency of the data?
+You’re responsible for a web application that is deployed across two Azure regions: East US and West US.
+The database is hosted in Azure SQL with active geo-replication enabled. 
+One day, the East US region experiences an unexpected outage. 
+What steps would you take to ensure the application remains available, and 
+how would you verify the integrity and consistency of the data?
 
-You’ve been tasked with designing a disaster recovery plan for a business-critical application that requires an RPO of 15 minutes and an RTO of 1 hour. The application consists of multiple Azure VMs, an Azure SQL Database, and Azure Blob Storage. How would you design the disaster recovery solution to meet these requirements
+You’ve been tasked with designing a disaster recovery plan for a business-critical application 
+that requires an RPO of 15 minutes and an RTO of 1 hour. The application consists of multiple Azure VMs, 
+an Azure SQL Database, and Azure Blob Storage. How would you design the disaster recovery solution to meet these requirements
